@@ -9,7 +9,7 @@ public abstract class Hero implements IHero {
 	public Hero() {
 	}
 
-	@Override
+	
 	public Hit getHit() {
 		return null;
 	}
